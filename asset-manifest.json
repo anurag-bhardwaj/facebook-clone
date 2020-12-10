@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/anurag-bhardwaj/facebook-clone/static/css/main.a18e591b.chunk.css",
-    "main.js": "/anurag-bhardwaj/facebook-clone/static/js/main.d5838cac.chunk.js",
-    "main.js.map": "/anurag-bhardwaj/facebook-clone/static/js/main.d5838cac.chunk.js.map",
-    "runtime-main.js": "/anurag-bhardwaj/facebook-clone/static/js/runtime-main.80bf2c95.js",
-    "runtime-main.js.map": "/anurag-bhardwaj/facebook-clone/static/js/runtime-main.80bf2c95.js.map",
-    "static/js/2.7c35f459.chunk.js": "/anurag-bhardwaj/facebook-clone/static/js/2.7c35f459.chunk.js",
-    "static/js/2.7c35f459.chunk.js.map": "/anurag-bhardwaj/facebook-clone/static/js/2.7c35f459.chunk.js.map",
-    "index.html": "/anurag-bhardwaj/facebook-clone/index.html",
-    "precache-manifest.8ab5dc46d56e211568ba1d810f1e65d2.js": "/anurag-bhardwaj/facebook-clone/precache-manifest.8ab5dc46d56e211568ba1d810f1e65d2.js",
-    "service-worker.js": "/anurag-bhardwaj/facebook-clone/service-worker.js",
-    "static/css/main.a18e591b.chunk.css.map": "/anurag-bhardwaj/facebook-clone/static/css/main.a18e591b.chunk.css.map",
-    "static/js/2.7c35f459.chunk.js.LICENSE.txt": "/anurag-bhardwaj/facebook-clone/static/js/2.7c35f459.chunk.js.LICENSE.txt"
+    "main.css": "/facebook-clone/static/css/main.a18e591b.chunk.css",
+    "main.js": "/facebook-clone/static/js/main.5cf31325.chunk.js",
+    "main.js.map": "/facebook-clone/static/js/main.5cf31325.chunk.js.map",
+    "runtime-main.js": "/facebook-clone/static/js/runtime-main.de8c91d7.js",
+    "runtime-main.js.map": "/facebook-clone/static/js/runtime-main.de8c91d7.js.map",
+    "static/js/2.7c35f459.chunk.js": "/facebook-clone/static/js/2.7c35f459.chunk.js",
+    "static/js/2.7c35f459.chunk.js.map": "/facebook-clone/static/js/2.7c35f459.chunk.js.map",
+    "index.html": "/facebook-clone/index.html",
+    "precache-manifest.b6de9eedf4585988610db98948fc8ecd.js": "/facebook-clone/precache-manifest.b6de9eedf4585988610db98948fc8ecd.js",
+    "service-worker.js": "/facebook-clone/service-worker.js",
+    "static/css/main.a18e591b.chunk.css.map": "/facebook-clone/static/css/main.a18e591b.chunk.css.map",
+    "static/js/2.7c35f459.chunk.js.LICENSE.txt": "/facebook-clone/static/js/2.7c35f459.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.80bf2c95.js",
+    "static/js/runtime-main.de8c91d7.js",
     "static/js/2.7c35f459.chunk.js",
     "static/css/main.a18e591b.chunk.css",
-    "static/js/main.d5838cac.chunk.js"
+    "static/js/main.5cf31325.chunk.js"
   ]
 }
