@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eb03450fa23d1e84c67a02dd1e54a070",
+    "revision": "020781de1068c3590e8d03f63116e61b",
     "url": "/facebook-clone/index.html"
   },
   {
-    "revision": "c42f6ef6057fe652bfe4",
+    "revision": "45f1e62797faba22aad4",
     "url": "/facebook-clone/static/css/main.a18e591b.chunk.css"
   },
   {
-    "revision": "180dbb6726b635dc602e",
-    "url": "/facebook-clone/static/js/2.7c35f459.chunk.js"
+    "revision": "adeb698f64839e207ff0",
+    "url": "/facebook-clone/static/js/2.79d6f8a3.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/facebook-clone/static/js/2.7c35f459.chunk.js.LICENSE.txt"
+    "url": "/facebook-clone/static/js/2.79d6f8a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c42f6ef6057fe652bfe4",
-    "url": "/facebook-clone/static/js/main.5cf31325.chunk.js"
+    "revision": "45f1e62797faba22aad4",
+    "url": "/facebook-clone/static/js/main.6c1a19e2.chunk.js"
   },
   {
     "revision": "22749eb5d016336bdfd5",
